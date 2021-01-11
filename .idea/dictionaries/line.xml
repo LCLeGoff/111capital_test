@@ -1,7 +1,22 @@
 <component name="ProjectDictionaryState">
   <dictionary name="line">
     <words>
+      <w>arange</w>
+      <w>autocorr</w>
+      <w>begining</w>
+      <w>cmap</w>
+      <w>criterium</w>
+      <w>cumsum</w>
+      <w>groupby</w>
       <w>matplotlib</w>
+      <w>nanmean</w>
+      <w>nanstd</w>
+      <w>nbextensions</w>
+      <w>relu</w>
+      <w>tanh</w>
+      <w>timestep</w>
+      <w>vals</w>
+      <w>yyyy</w>
     </words>
   </dictionary>
 </component>
